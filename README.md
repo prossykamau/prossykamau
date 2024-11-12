@@ -21,7 +21,7 @@ I'm a **Data Scientist** specializing in **Digital Marketing Analytics** and **S
 ### [Movie Recommender System](https://github.com/prossykamau/DS-FT-PHASE1-MICROSOFT-MOVIE)
 A machine learning model to recommend movies based on user preferences and ratings. This project includes data preprocessing, model building, and evaluation.
 
-### [Climate Change Impact Analysis](https://github.com/prossykamau/climate-change-impact)
+### [Breast Cancer Detection Model](https://github.com/prossykamau/Breast-Cancer-Detection-Model)
 An analysis of how climate change affects agricultural productivity in Africa, using data science techniques to provide insights and recommendations for sustainable practices.
 
 ### [Real Estate Data Analysis](https://github.com/prossykamau/Real-Estate-Data-Analysis-Project)
