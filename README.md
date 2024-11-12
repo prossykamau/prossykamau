@@ -18,7 +18,7 @@ I'm a **Data Scientist** specializing in **Digital Marketing Analytics** and **S
 
 ## Projects
 
-### [Movie Recommender System](https://github.com/prossykamau/movie-recommender)
+### [Movie Recommender System](https://github.com/prossykamau/DS-FT-PHASE1-MICROSOFT-MOVIE)
 A machine learning model to recommend movies based on user preferences and ratings. This project includes data preprocessing, model building, and evaluation.
 
 ### [Climate Change Impact Analysis](https://github.com/prossykamau/climate-change-impact)
