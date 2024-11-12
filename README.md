@@ -1,6 +1,6 @@
 # Hi, I'm Prossy! 👋
 
-I'm a **Data Scientist** passionate about sharing my learnings about data and technology. I create engaging content and videos focused on **Data Science**, **Machine Learning**, and **Programming Languages**.
+I'm a **Data Scientist** specializing in **Digital Marketing Analytics** and **Social Media Management** with a strong proficiency in **Python**, **Tableau**, and **leading digital platforms**, including Google Ads, Facebook Ads, YouTube, and Instagram. I’m passionate about leveraging data to drive impactful marketing strategies and excel in analyzing performance metrics to optimize campaigns and maximize ROI..
 
 ## About Me
 
@@ -8,26 +8,13 @@ I'm a **Data Scientist** passionate about sharing my learnings about data and te
   - **BBIT** from Strathmore University  
   - **MBA for Executives** from Strathmore Business School  
   - **Data Science** from Moringa School
+  - **Social Media with Mo**
 
 - 🌱 **Currently Learning**:  
   - **Front-End Development**  
   - Exploring the **future of Machine Learning** and **Data Science** and how it impacts our daily lives.
 
-- 🎥 **Tech Videos**:  
-  I love making videos about:
-  - **Data Science**
-  - **Machine Learning**
-  - **Coding Languages**
-  - **Books related to technology, data science, and the future of ML**
 
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Projects
 
