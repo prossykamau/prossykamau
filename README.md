@@ -30,7 +30,7 @@ A personalized workout generator that adapts to user fitness levels and preferen
 ### [Data Science Portfolio](https://github.com/prossykamau/data-science-portfolio)
 A collection of various data science projects showcasing my work with machine learning models, data visualization, and data analysis.
 
-###[FarmDtect WebApp](https://github.com/Abuz254/Farm_Dtect)
+### [FarmDtect WebApp](https://github.com/Abuz254/Farm_Dtect)
 The Data-Driven Crop Diagnostic Platform is an innovative AI-powered solution designed to help rural farmers diagnose crop diseases and optimize agricultural practices. By leveraging advanced image classification technology and integrating environmental data, this platform provides actionable insights and recommendations to enhance crop health and productivity.
 
 ###
