@@ -24,7 +24,7 @@ A machine learning model to recommend movies based on user preferences and ratin
 ### [Climate Change Impact Analysis](https://github.com/prossykamau/climate-change-impact)
 An analysis of how climate change affects agricultural productivity in Africa, using data science techniques to provide insights and recommendations for sustainable practices.
 
-### [Custom Workout Generator](https://github.com/prossykamau/custom-workout-generator)
+### [Real Estate Data Analysis](https://github.com/prossykamau/Real-Estate-Data-Analysis-Project)
 A personalized workout generator that adapts to user fitness levels and preferences, integrated with Firebase and Flutter for real-time updates.
 
 ### [Data Science Portfolio](https://github.com/prossykamau/data-science-portfolio)
